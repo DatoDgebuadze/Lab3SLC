@@ -1,0 +1,49 @@
+.Listing {
+  display: inline-block;
+  text-align: center; /* Center the text content horizontally */
+  margin: 15px;
+  text-align: left;
+}
+
+.Listing img {
+  display: block;
+  margin: 0 auto; /* Center the image horizontally */
+  max-width: 100%;
+  height: auto;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+
+.listing-details {
+  padding: 0;
+}
+
+.listing-details h2 {
+  font-size: 1.2rem;
+  margin: 0;
+}
+
+.listing-details p {
+  margin: 5px 0;
+}
+
+.Rating {
+  color: #007bff;
+  font-weight: bold;
+}
+
+.Rating.green {
+  color: #28a745;
+}
+
+.Rating.red {
+  color: #dc3545;
+}
+
+h1{
+  text-align: center;
+}
+hr{
+  border: 2px solid gray; /* Set the border color to black */
+  align-items: center;
+}
