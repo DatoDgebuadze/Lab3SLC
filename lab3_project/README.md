@@ -6,3 +6,21 @@ Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## Project is Done For Lab3 Assignment in full-Stack Web Development
+## Requested by Professor Ziad Ewais.
+
+
+# Travel Listings Web App
+
+This is a simple web application for displaying travel listings. Users can view information about various travel destinations, including images, country, location, ratings, and prices. The project is built using React.js and styled with CSS.
+
+## Features
+
+- Display travel listings with images, country, location, ratings, and prices.
+- Conditionally style ratings based on a threshold (e.g., ratings >= 4.0 are green).
+- Responsive design to work on various screen sizes.
+- Centered alignment for images and text within each listing.
+- Minimalistic and user-friendly interface.
+
+
